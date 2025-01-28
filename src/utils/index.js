@@ -2,7 +2,7 @@ import { useLocation } from "react-router-dom";
 import { app } from "./firebase"
 import {getDownloadURL, getStorage, ref, uploadBytesResumable} from "firebase/storage"
 
-export const API_URI = "https://blogging-api-iota.vercel.app/";
+export const API_URI = "https://blogging-api-iota.vercel.app";
 // export const API_URI = "http://localhost:8800";
 
 export const uploadFile = (setFileURL, file) => {
