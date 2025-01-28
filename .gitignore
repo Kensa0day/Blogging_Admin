@@ -1,0 +1,3 @@
+# Folder atau file yang tidak perlu di-push
+node_modules/
+.env
