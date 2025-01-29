@@ -59,7 +59,7 @@ const StartPage = () => {
                     </h1>
 
                     <span className={clsx("text-center text-base md:text-[18px]", theme ? "text-gray-500" : "text-slate-600")}>
-                    A great way to voice ideas, share experiences, and inspire people around the world. Everyone has a unique story, a valuable perspective, or a piece of knowledge that can open new horizons for others. Here, we believe that every word you write has the power to create change, whether on a small or large scale. Our community is designed to support writers, both beginners and professionals, in expressing themselves without boundaries. Join today and begin your journey into the world of blogging, where creativity, free speech, and collaboration meet.
+                    Voice your ideas, share experiences, and inspire the world. Everyone has a unique story or insight that can open new horizons. Here, every word has the power to create change. Our community supports writers of all levels in expressing themselves freely. Join today and start your blogging journey! 
                     </span>
 
                     <div className='flex gap-6 items-center mt-6'>
